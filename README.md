@@ -684,7 +684,3 @@ Below you'll find a list of articles which can help you getting started and adva
 - [Best Practices when Designing Custom Fields](https://www.advancedcustomfields.com/blog/best-practices-designing-custom-fields)
 - [Organizing Custom Fields Inside of WordPress with ACF](https://www.advancedcustomfields.com/blog/organizing-custom-fields-inside-wordpress-acf)
 - [Wait, ACF Has Settings?](https://www.advancedcustomfields.com/blog/acf-has-settings)
-
-## License
-
-[MIT](LICENSE) © [Vincent Klaiber](https://vinkla.dev/)
